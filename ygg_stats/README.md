@@ -11,3 +11,7 @@ if it is evenly distributed over 1/steps wallets you will get an even stack of n
 
 The csv can be used for a stacked bar chart in Excel, OpenOffice and the like.
 You probably want to skip the first column with total outflow on that date.
+
+The Google Sheet [here](https://docs.google.com/spreadsheets/d/1ksitF87TXLb48yLZUqJrv1PwZ9UHGdGPcpAgIa5eYMw/)
+is used by the code.
+That sheet is publicly viewable (as this is a demo).
